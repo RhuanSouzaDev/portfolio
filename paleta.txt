@@ -1,0 +1,99 @@
+🔹 Fundos (base do layout)
+
+Esses tons criam profundidade e elegância.
+
+Background principal: #0B0D12
+
+Background secundário: #10131A
+
+Background seção: #151923
+
+Background elevado (cards/modals): #1C2230
+
+👉 Use gradientes leves entre #0B0D12 → #151923 em hero/footer.
+
+🔹 Cards & Containers
+
+Eles usam contraste por camadas, não por cor gritante.
+
+Card padrão: #141824
+
+Card hover: #1E2535
+
+Borda sutil: #2A3350
+
+Divider: #222A3D
+
+🔹 Tipografia (muito importante nesse estilo)
+
+Nada de branco puro em excesso.
+
+Texto principal: #E6E8EE
+
+Texto secundário: #B5BAC7
+
+Texto terciário (labels): #7F8699
+
+Texto desabilitado: #555B6E
+
+🔹 Cores de Destaque (identidade do site)
+
+Aqui está o “DNA” desses layouts.
+
+🔵 Azul Tech
+
+Azul principal: #3B82F6
+
+Azul hover: #2563EB
+
+Azul soft (bg): #0F1E3A
+
+🟣 Roxo Moderno
+
+Roxo principal: #7C3AED
+
+Roxo hover: #6D28D9
+
+Roxo soft: #1E1438
+
+🟦 Ciano Futurista (detalhes)
+
+Ciano: #22D3EE
+
+Ciano soft: #0B2C33
+
+👉 Use um principal (azul ou roxo) e os outros só como apoio.
+
+🔹 Botões (estilo desses sites)
+
+Nada muito grande, nada muito chamativo.
+
+Botão primário
+
+Fundo: #3B82F6
+
+Texto: #0B0D12
+
+Hover: #2563EB
+
+Botão secundário
+
+Fundo: transparent
+
+Texto: #7C3AED
+
+Borda: #7C3AED
+
+Hover bg: #1E1438
+
+🔹 Estados & Feedback
+
+Mesma linguagem visual:
+
+✅ Sucesso: #22C55E
+
+❌ Erro: #F43F5E
+
+⚠️ Aviso: #FBBF24
+
+ℹ️ Info: #38BDF8
