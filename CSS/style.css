@@ -164,7 +164,7 @@ main {
         rgba(30, 20, 56, 0.5),
         rgba(15, 30, 58, 0.5)
       ),
-      url("/images/deep-dark-wallpaper.png");
+      url("../images/deep-dark-wallpaper.png");
 
     background-size: cover;
     background-position: center;
@@ -187,7 +187,7 @@ main {
           rgba(0, 0, 0, 0.7),
           rgba(15, 30, 58, 0.5)
         ),
-        url("/images/dark-wallpaper.png");
+        url("../images/dark-wallpaper.png");
       border-radius: 50%;
       border: solid 0.2vw #2a3350;
       width: calc(20vh + 12vw);
@@ -607,7 +607,7 @@ main {
                 rgba(20, 24, 36, 0.6),
                 rgba(30, 20, 56, 0.7)
               ),
-              url("/images/dark-wallpaper.png");
+              url("../images/dark-wallpaper.png");
             background-size: cover;
             border-radius: 50%;
             width: calc(1vh + 5vw);
@@ -975,16 +975,16 @@ main {
           }
 
           &#infoifpr {
-            background-image: url("/images/imagem-tecnico-informatica-ifpr.png");
+            background-image: url("../images/imagem-tecnico-informatica-ifpr.png");
           }
           &#talentotech {
-            background-image: url("/images/imagem-talento-tech.png");
+            background-image: url("../images/imagem-talento-tech.png");
           }
           &#jsimpressionador {
-            background-image: url("/images/imagem-js-hashtag.png");
+            background-image: url("../images/imagem-js-hashtag.png");
           }
           &#htmlcssimpressionador {
-            background-image: url("/images/imagem-html-css-hashtag.png");
+            background-image: url("../images/imagem-html-css-hashtag.png");
           }
         }
         & .caixa-texto {
@@ -1099,11 +1099,11 @@ main {
           aspect-ratio: 16 / 9;
 
           &#banif {
-            background-image: url("/images/imagem-banif.png");
+            background-image: url("../images/imagem-banif.png");
           }
 
           &#pixelzone {
-            background-image: url("/images/imagem-pixelzone.png");
+            background-image: url("../images/imagem-pixelzone.png");
           }
 
           & iframe {
