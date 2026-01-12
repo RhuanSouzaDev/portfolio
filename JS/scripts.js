@@ -1,5 +1,5 @@
 const linksMenu = document.querySelectorAll(".menu-botoes a");
-const paginaAtual = window.location.pathname.split("/").pop();
+const paginaAtual = window.location.pathname;
 
 linksMenu.forEach((link) => {
   const href = link.getAttribute("href");
